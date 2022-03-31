@@ -4,7 +4,7 @@ This project was created to learn more about Laravel (Backend) and React (Fronte
 
 ## Setup Backend
 
-Please make sure to setup the service first using this git repositor
+Please make sure to setup the service first using this git repository
 Setup: [Task Management Service](https://github.com/ryanpaglinawan/task-management-service).
 
 ## Setup 
