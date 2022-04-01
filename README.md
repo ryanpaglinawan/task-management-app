@@ -9,12 +9,12 @@ Setup: [Task Management Service](https://github.com/ryanpaglinawan/task-manageme
 
 ## Setup 
 
-- Once the service is up, open the `config.js` file and update the `apiHost` and replace it with url of the service that is running on your local machine.
+- Once the service is up, open the `config.js` file and update the `apiHost` and replace it with the url of the service that is running on your local machine.
 
 - Install depencies by running this command
 > npm install
 
-- Once complete, serve the app using this command.
+- Once done, serve the app using this command.
 > npm serve
 
 Enjoy!
